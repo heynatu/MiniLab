@@ -1,0 +1,24 @@
+# Dependencies and build output
+node_modules/
+dist/
+.minilab-tmp/
+
+# Secrets: never commit these
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Tooling
+.vercel/
+.claude/
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.vscode/
+.idea/
+
+# Ready-to-upload copy for the GitHub website (not part of the repo)
+tai-len-github/
