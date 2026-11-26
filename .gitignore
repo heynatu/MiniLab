@@ -20,5 +20,3 @@ npm-debug.log*
 .vscode/
 .idea/
 
-# Ready-to-upload copy for the GitHub website (not part of the repo)
-tai-len-github/

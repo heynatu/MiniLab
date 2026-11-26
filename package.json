@@ -12,7 +12,7 @@
     "check": "node scripts/check-secrets.mjs"
   },
   "engines": {
-    "node": ">=20.19.0"
+    "node": "24.x"
   },
   "dependencies": {
     "three": "^0.187.0"
